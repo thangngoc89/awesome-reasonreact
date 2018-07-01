@@ -7,6 +7,7 @@ A list of resources for building a website in ReasonReact.
 - [Sane Promise handling with reason-future](https://github.com/rationaljs/future)
 
 # ReasonReact
+- Css: [bs-css](https://github.com/SentiaAnalytics/bs-css) and [ppx for writing real css string](https://github.com/astrada/ppx_bs_css)
 - Internalization: [bs-react-intl](https://github.com/alexfedoseev/bs-react-intl) and [extractor to extract the string](https://github.com/cknitt/bs-react-intl-extractor)
 # Node
 
